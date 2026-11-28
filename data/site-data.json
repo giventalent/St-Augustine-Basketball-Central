@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "school": "St. Augustine School",
+    "team": "3rd Grade Girls Basketball",
+    "location": "Ossining, NY",
+    "season": "2026–27",
+    "updated": "2026-11-27",
+    "approvalConfirmed": false
+  },
+  "theme": {
+    "navy": "#10224b",
+    "gold": "#f1b719",
+    "cream": "#f7f3e8"
+  },
+  "hero": {
+    "eyebrow": "Eagles Basketball • 2026–27 Season",
+    "headline": "Big smiles. Big hustle. One team.",
+    "summary": "The third grade girls brought energy, teamwork and sportsmanship to a two-game weekend against St. Gregory and OLPH St. Catherine.",
+    "image": "assets/hero-team.jpg"
+  },
+  "dashboard": {
+    "record": "—",
+    "gamesPlayed": 2,
+    "photos": 10,
+    "nextTip": "Sun • Nov 29 • 1:00 PM"
+  },
+  "games": [
+    {
+      "id": "2026-11-21-st-gregory",
+      "date": "2026-11-21",
+      "opponent": "St. Gregory",
+      "location": "Away",
+      "status": "Final",
+      "teamScore": "—",
+      "opponentScore": "—",
+      "headline": "Energy from the opening tip",
+      "recap": "St. Augustine opened the weekend against St. Gregory with active defense, confident ball movement and teammates cheering every possession. The Eagles kept working from the opening tip to the final whistle.",
+      "highlights": ["Strong on-ball defense", "Confident transition play", "Positive bench energy"],
+      "featuredPhoto": "assets/st-gregory-adriana-tip.jpg"
+    },
+    {
+      "id": "2026-11-22-olph-st-catherine",
+      "date": "2026-11-22",
+      "opponent": "OLPH St. Catherine",
+      "location": "Away",
+      "status": "Final",
+      "teamScore": "—",
+      "opponentScore": "—",
+      "headline": "Together through every possession",
+      "recap": "Against OLPH St. Catherine, the Eagles stayed connected. Players listened in the huddle, brought the ball up with their heads up and supported one another through every possession.",
+      "highlights": ["Focused timeout huddle", "Heads-up ball handling", "Team-first attitude"],
+      "featuredPhoto": "assets/olph-timeout-huddle.jpg"
+    }
+  ],
+  "schedule": [
+    {"date": "2026-11-21", "opponent": "St. Gregory", "location": "Away", "time": "Completed", "result": "Final"},
+    {"date": "2026-11-22", "opponent": "OLPH St. Catherine", "location": "Away", "time": "Completed", "result": "Final"},
+    {"date": "2026-11-29", "opponent": "Holy Rosary", "location": "Home", "time": "1:00–2:00 PM", "result": "Upcoming"}
+  ],
+  "spotlight": {
+    "title": "Team Spotlight",
+    "name": "Third Grade Girls",
+    "kicker": "Pride • Hustle • Heart",
+    "body": "This weekend’s spotlight belongs to the whole team. The players hustled on both ends, celebrated one another and showed sportsmanship from warm-ups through the final whistle.",
+    "names": ["Aarya", "Adriana", "Chelsea", "Demy", "Emma", "Kennedy"],
+    "image": "assets/hero-team.jpg"
+  },
+  "photos": [
+    {"src": "assets/st-gregory-chelsea-defense.jpg", "game": "St. Gregory", "caption": "Chelsea keeps the ball protected against tight St. Gregory defense.", "alt": "Chelsea shields the ball from a St. Gregory defender while fans look on from the sideline."},
+    {"src": "assets/st-gregory-demy-dribble.jpg", "game": "St. Gregory", "caption": "Demy changes direction and gets around her defender.", "alt": "Demy dribbles around a St. Gregory defender."},
+    {"src": "assets/st-gregory-aarya-shot.jpg", "game": "St. Gregory", "caption": "Aarya follows through on a shot.", "alt": "Aarya releasing a shot with the ball in the air."},
+    {"src": "assets/st-gregory-adriana-tip.jpg", "game": "St. Gregory", "caption": "Adriana goes up for the opening tip, and the energy starts right away.", "alt": "Adriana jumps for the opening tip against an opposing player, next to the referee."},
+    {"src": "assets/st-gregory-emma-layup.jpg", "game": "St. Gregory", "caption": "Emma goes up for a warm-up layup while teammates wait their turn.", "alt": "Emma stretches up for a layup during warm-ups while teammates wait in line."},
+    {"src": "assets/st-gregory-chelsea-push.jpg", "game": "St. Gregory", "caption": "Chelsea pushes the ball up the court with her eyes up.", "alt": "Chelsea dribbling the ball up the court."},
+    {"src": "assets/olph-kennedy-inbound.jpg", "game": "OLPH St. Catherine", "caption": "Kennedy gets ready to inbound the ball.", "alt": "Kennedy holding the ball to inbound it while a referee stands beside her."},
+    {"src": "assets/olph-timeout-huddle.jpg", "game": "OLPH St. Catherine", "caption": "A timeout huddle with Coach Richard and Coach Edison: listening, regrouping and getting ready to go back out.", "alt": "St. Augustine players huddle during a timeout with Coach Richard and Coach Edison."},
+    {"src": "assets/olph-demy-dribble.jpg", "game": "OLPH St. Catherine", "caption": "Demy brings the ball up the court with her head up.", "alt": "Demy dribbling up the court with her head up while a referee runs behind her."},
+    {"src": "assets/olph-chelsea-free-throw.jpg", "game": "OLPH St. Catherine", "caption": "Chelsea lines up a free throw while her teammates wait their turn.", "alt": "Chelsea shooting a free throw while teammates watch."}
+  ],
+  "announcements": [
+    {"date": "2026-11-26", "tag": "Schedule", "title": "Happy Thanksgiving!", "body": "Thursday’s practice is cancelled for Thanksgiving. Happy Thanksgiving to everyone!"},
+    {"date": "2026-11-29", "tag": "Next Game", "title": "Home vs. Holy Rosary", "body": "Sunday, November 29, 1:00 to 2:00 PM."},
+    {"date": "2026-11-27", "tag": "Families", "title": "Share a photo or shout-out", "body": "Have a photo to share or a shout-out for a teammate? Send it to the coaches and we will feature it in the next issue."}
+  ],
+  "newsletter": {
+    "title": "Weekend Edition",
+    "subtitle": "St. Gregory + OLPH St. Catherine • November 21–22, 2026",
+    "welcome": "Our third grade girls played two games over the weekend, and the best part of the afternoon had nothing to do with the scoreboard. From warm-ups to the final whistle, they hustled, cheered each other on and had a great time playing together.",
+    "thanks": "Thank you to the families, coaches and volunteers who came out to support the team. Your cheers carried through the gym.",
+    "values": ["Teamwork: players cheered for each other on every possession.", "Effort: hustle on both ends of the court.", "Sportsmanship: kind words and high fives, win or lose."]
+  },
+  "footer": {
+    "headline": "Let’s Go Eagles!",
+    "tagline": "Pride • Hustle • Heart",
+    "credit": "St. Augustine School • Ossining, NY"
+  }
+}
